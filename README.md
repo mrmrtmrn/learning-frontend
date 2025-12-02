@@ -25,7 +25,3 @@ learning-frontend/
 ├── react/          # React学習用
 └── logs/           # 学習記録
 ```
-
-## 学習記録
-
-- [Day 1](./logs/day01.md) - 準備中
